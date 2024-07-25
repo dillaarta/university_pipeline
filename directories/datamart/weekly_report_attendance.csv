@@ -1,0 +1,105 @@
+semester_id,week_id,course_name,attendance_pct
+1,1,Applied Data Science,1.932367149758454
+1,1,Data Mining,2.898550724637681
+1,1,Introduction to Applied Machine Learning,2.4154589371980677
+1,1,Statistic,0.966183574879227
+1,2,Applied Data Science,1.932367149758454
+1,2,Data Mining,2.898550724637681
+1,2,Introduction to Applied Machine Learning,2.898550724637681
+1,2,Statistic,0.966183574879227
+1,3,Applied Data Science,1.4492753623188406
+1,3,Data Mining,2.898550724637681
+1,3,Introduction to Applied Machine Learning,2.898550724637681
+1,3,Statistic,0.4830917874396135
+1,4,Applied Data Science,1.4492753623188406
+1,4,Data Mining,2.898550724637681
+1,4,Introduction to Applied Machine Learning,1.4492753623188406
+1,4,Statistic,0.4830917874396135
+1,5,Applied Data Science,1.4492753623188406
+1,5,Data Mining,2.898550724637681
+1,5,Introduction to Applied Machine Learning,2.898550724637681
+1,5,Statistic,0.4830917874396135
+1,6,Applied Data Science,1.932367149758454
+1,6,Data Mining,2.898550724637681
+1,6,Introduction to Applied Machine Learning,2.4154589371980677
+1,6,Statistic,0.966183574879227
+1,7,Applied Data Science,1.932367149758454
+1,7,Data Mining,2.898550724637681
+1,7,Introduction to Applied Machine Learning,1.932367149758454
+1,7,Statistic,0.4830917874396135
+1,8,Applied Data Science,1.4492753623188406
+1,8,Data Mining,2.898550724637681
+1,8,Introduction to Applied Machine Learning,2.898550724637681
+1,8,Statistic,0.966183574879227
+1,9,Applied Data Science,1.4492753623188406
+1,9,Data Mining,2.898550724637681
+1,9,Introduction to Applied Machine Learning,2.898550724637681
+1,9,Statistic,0.4830917874396135
+1,10,Applied Data Science,1.4492753623188406
+1,10,Data Mining,2.898550724637681
+1,10,Introduction to Applied Machine Learning,2.4154589371980677
+1,10,Statistic,0.966183574879227
+1,11,Applied Data Science,1.4492753623188406
+1,11,Data Mining,2.898550724637681
+1,11,Introduction to Applied Machine Learning,1.932367149758454
+1,11,Statistic,0.4830917874396135
+1,12,Applied Data Science,1.4492753623188406
+1,12,Data Mining,2.898550724637681
+1,12,Introduction to Applied Machine Learning,2.4154589371980677
+1,12,Statistic,0.4830917874396135
+1,13,Applied Data Science,1.932367149758454
+1,13,Data Mining,2.898550724637681
+1,13,Introduction to Applied Machine Learning,2.4154589371980677
+1,13,Statistic,0.966183574879227
+2,1,Data Mining,1.7341040462427744
+2,1,Introduction to Applied Machine Learning,3.4682080924855487
+2,1,Natural Language Processing,1.1560693641618496
+2,1,Python Programming,1.1560693641618496
+2,2,Data Mining,2.312138728323699
+2,2,Introduction to Applied Machine Learning,3.4682080924855487
+2,2,Natural Language Processing,1.1560693641618496
+2,2,Python Programming,1.1560693641618496
+2,3,Data Mining,2.312138728323699
+2,3,Introduction to Applied Machine Learning,3.4682080924855487
+2,3,Natural Language Processing,1.1560693641618496
+2,3,Python Programming,0.5780346820809248
+2,4,Data Mining,2.312138728323699
+2,4,Introduction to Applied Machine Learning,3.4682080924855487
+2,4,Natural Language Processing,1.1560693641618496
+2,4,Python Programming,1.1560693641618496
+2,5,Data Mining,2.312138728323699
+2,5,Introduction to Applied Machine Learning,3.4682080924855487
+2,5,Natural Language Processing,1.1560693641618496
+2,5,Python Programming,0.5780346820809248
+2,6,Data Mining,1.7341040462427744
+2,6,Introduction to Applied Machine Learning,3.4682080924855487
+2,6,Natural Language Processing,1.1560693641618496
+2,6,Python Programming,1.1560693641618496
+2,7,Data Mining,2.312138728323699
+2,7,Introduction to Applied Machine Learning,3.4682080924855487
+2,7,Natural Language Processing,1.1560693641618496
+2,7,Python Programming,0.5780346820809248
+2,8,Data Mining,2.312138728323699
+2,8,Introduction to Applied Machine Learning,3.4682080924855487
+2,8,Natural Language Processing,1.1560693641618496
+2,8,Python Programming,0.5780346820809248
+2,9,Data Mining,2.312138728323699
+2,9,Introduction to Applied Machine Learning,3.4682080924855487
+2,9,Natural Language Processing,1.1560693641618496
+2,9,Python Programming,0.5780346820809248
+2,10,Data Mining,2.312138728323699
+2,10,Introduction to Applied Machine Learning,3.4682080924855487
+2,10,Natural Language Processing,1.1560693641618496
+2,10,Python Programming,1.1560693641618496
+2,11,Data Mining,2.312138728323699
+2,11,Introduction to Applied Machine Learning,3.4682080924855487
+2,11,Natural Language Processing,1.1560693641618496
+2,11,Python Programming,1.1560693641618496
+2,12,Data Mining,2.312138728323699
+2,12,Introduction to Applied Machine Learning,3.4682080924855487
+2,12,Natural Language Processing,1.1560693641618496
+2,12,Python Programming,0.5780346820809248
+2,13,Data Mining,2.312138728323699
+2,13,Introduction to Applied Machine Learning,3.4682080924855487
+2,13,Natural Language Processing,1.1560693641618496
+2,13,Python Programming,0.5780346820809248
